@@ -2,7 +2,7 @@
 
 # `GIEEZ`
 
-### `FULL-STACK × AI`
+### `Games? Valorant`
 
 ```text
 [ SYSTEM ONLINE ]
