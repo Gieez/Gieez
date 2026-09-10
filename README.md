@@ -4,7 +4,7 @@
 
 GIEEZ
 
-FULL-STACK DEVELOPER  ·  AI BUILDER
+FULL-STACK DEVELOPER · AI & AUTOMATION
 
 <p>
   Building things on the web.<br>
@@ -34,7 +34,7 @@ WHO AM I?
 
 A developer who likes turning
 
-“bisa nggak ya?”
+“bisa nda yah?”
 
 into an actual project.
 
@@ -45,11 +45,10 @@ Currently focused on Next.js, AI Agents, automation and building systems that ma
 
 PERSONALITY.LOG
 
-AMBITION       ██████████ 100%
-CURIOSITY      █████████░  90%
-OVERTHINKING   ██████████ 100%
+BUILDING       █████████░  90%
+CURIOUS        ██████████ 100%
+RANDOM IDEAS   █████████░  90%
 ENERGY         ██████░░░░  60%
-FOCUS          █████░░░░░  50%
 
 work in progress
 
@@ -114,7 +113,7 @@ Obsidian · AI · Workflows
 
 SIDE QUESTS
 
-🎮 Gaming   💻 Coding   🧠 Overthinking
+🎮 Gaming   💻 Coding   🧠 Random Ideas
 
 <br>
 
