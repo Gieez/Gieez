@@ -1,25 +1,19 @@
 <div align="center">
 
-# `GIEEZ`
+GIEEZ
 
-### `Games? Valorant`
-
-```text
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=420&lines=Games%3F+Valorant;Games%3F+Minecraft;Games%3F+Genshin+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=420&lines=Tech%3F+Next.js;Tech%3F+AI+Agents;Tech%3F+Obsidian;Tech%3F+Hermes;Tech%3F+Automation" />
+<br/>
 [ SYSTEM ONLINE ]
-
 BUILDING DIGITAL THINGS
 NEXT.JS • AI AGENTS • OBSIDIAN • AUTOMATION
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=520&lines=building+with+Next.js;experimenting+with+AI+agents;connecting+Obsidian+%2B+automation;turning+ideas+into+working+systems" />
-
 </div>
 
----
+⸻
 
-## `> ABOUT`
+> ABOUT
 
-```js
 const gieez = {
   currentlyBuilding: "AI-powered systems",
   stack: ["Next.js", "React", "Node.js"],
@@ -27,45 +21,42 @@ const gieez = {
   knowledge: "Obsidian",
   mindset: "build → break → fix → repeat"
 };
-```
 
-## `> STACK`
+⸻
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,python,mongodb,postgres,docker,linux,git" />
-
-`AI Agents` · `Hermes` · `Obsidian` · `Automation`
-
----
-
-## `> PROJECTS`
-
-**🤖 AI Agent**
-Personal agent connected to tools, memory, automation and knowledge management.
-
-**⚡ Web Apps**
-Building modern full-stack applications with Next.js.
-
-**🧠 Obsidian System**
-Turning notes and knowledge into something actually useful instead of another folder full of unfinished notes.
-
----
+> STACK
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,python,mongodb,postgres,docker,linux,git" />
 
-```text
-╔══════════════════════════════════════╗
-║        GIEEZ // SYSTEM ACTIVE        ║
-║                                      ║
-║        CREATE > ITERATE > REPEAT     ║
-╚══════════════════════════════════════╝
-```
-
-`GitHub` · `X` · `LinkedIn`
+AI Agents · Hermes · Obsidian · Automation
 
 </div>
 
-<div align="center">
+⸻
 
-<img src="https://komarev.com/ghpvc/?username=Gieez&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+> PROJECTS
+
+🤖 AI Agent
+Personal agent connected to tools, memory, automation and knowledge management.
+
+⚡ Web Apps
+Modern full-stack applications built with Next.js.
+
+🧠 Obsidian System
+Turning knowledge, notes and workflows into one connected system.
+
+⸻
+
+<div align="center">
+╔══════════════════════════════════════╗
+║        GIEEZ // SYSTEM ONLINE        ║
+║                                      ║
+║        CREATE > ITERATE > REPEAT     ║
+╚══════════════════════════════════════╝
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Gieez&style=flat-square&color=00F0FF&label=PROFILE+VISITS" />
+
+GitHub · X · LinkedIn
 
 </div>
