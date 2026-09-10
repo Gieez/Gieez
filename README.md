@@ -63,3 +63,9 @@ Turning notes and knowledge into something actually useful instead of another fo
 `GitHub` · `X` · `LinkedIn`
 
 </div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Gieez&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+
+</div>
